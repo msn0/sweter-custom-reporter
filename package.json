@@ -18,7 +18,7 @@
     "index.js"
   ],
   "devDependencies": {
-    "mocha": "^2.0.1",
+    "mocha": "^2.2.4",
     "sinon": "^1.14.1"
   }
 }
