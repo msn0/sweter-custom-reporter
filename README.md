@@ -9,3 +9,9 @@ Simply pass node module name via ``--custom-reporter``
 ```
 $ sweter http://google.com --custom-reporter my-reporter
 ```
+
+Extra params can be passed like that
+
+```
+$ sweter http://google.com --custom-reportermy-reporter --my-reporter-foo bar
+```
