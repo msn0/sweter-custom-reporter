@@ -4,6 +4,8 @@ This project refers to ``sweter`` and shows how to write custom reporters. If yo
 
 ## The Example
 
+Simply pass node module name via ``--custom-reporter``
+
 ```
 $ sweter http://google.com --custom-reporter my-reporter
 ```
